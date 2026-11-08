@@ -1,0 +1,33 @@
+8. Waterfall Model
+Definition: Waterfall is a linear software development model in which each phase is completed before the next phase begins.
+
+Roman Urdu: Is model mein pehle ek stage complete hota hai, phir next stage start hota hai.
+
+Example: Pehle requirements, phir design, phir coding, phir testing.
+9. Prototype Model
+Definition: Prototype Model creates an initial working model of software to understand user requirements.
+
+Example: Client ko final banking app banane se pehle demo design dikhana.
+
+When used?
+- When requirements are unclear.
+- When client is unsure about the system.
+Risk: Client prototype ko final product samajh sakta hai.
+10. Spiral Model
+Definition: Spiral Model combines iterative development with systematic risk analysis.
+
+Roman Urdu: Is model mein software multiple cycles mein develop hota hai aur har cycle mein risks analyze kiye jate hain.
+
+Example: Large banking system jahan security risks important hain.
+11. Agile Model
+Definition: Agile is an iterative software development model that supports continuous feedback and changing requirements.
+
+Example: Food delivery app ko multiple small versions mein develop karna.
+12. Plan-Driven Model
+Definition: A plan-driven model follows predefined plans and requirements throughout software development.
+
+Example: Government project jahan requirements aur documentation pehle se defined hon.
+Agile	Plan-Driven
+Flexible approach.	Planned approach.
+Supports changing requirements.	Follows predefined requirements.
+Frequent feedback.	More formal planning and documentation.
